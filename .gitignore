@@ -1,0 +1,4 @@
+# Arquivos de credenciais
+*.pyc
+__pycache__/
+.env
